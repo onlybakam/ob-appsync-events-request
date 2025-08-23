@@ -1,7 +1,7 @@
 {
   "name": "ob-appsync-events-request",
   "version": "0.0.6",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "scripts": {
     "build": "npx tsc --emitDeclarationOnly && node scripts/build.mjs",
